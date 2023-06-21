@@ -1,0 +1,3 @@
+/home/ubuntu/multMatrix/buildcliente/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/multMatrix/buildcliente/CMakeFiles/client.dir
+/home/ubuntu/multMatrix/buildcliente/CMakeFiles/edit_cache.dir

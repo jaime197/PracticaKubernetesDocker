@@ -1,0 +1,3 @@
+/home/ubuntu/compartido/fileManager/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/compartido/fileManager/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/compartido/fileManager/build/CMakeFiles/server.dir
